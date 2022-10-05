@@ -1,9 +1,7 @@
-import 'dart:async';
 
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pdfeditor/pdf_editor.dart';
 import 'pdf_view_controller.dart';
 
 typedef PDFViewCreatedCallback = void Function(PDFViewController controller);

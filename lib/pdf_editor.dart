@@ -46,6 +46,7 @@ class PDFEditor{
       file.writeFromSync(response.data);
       await file.close();
     } on DioError catch (e) {
+      log(e.message);
      if(File(savePath).existsSync()){
        await  File(savePath).delete();
      }

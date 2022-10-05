@@ -19,11 +19,6 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
-		<key>flutter_pdfview.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>flutter_platform_alert.xcscheme</key>
 		<dict>
 			<key>isShown</key>

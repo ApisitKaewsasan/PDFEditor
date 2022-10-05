@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/VisualEffectView.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		YTCWTw0cPjrjSEt2jUYZrdNRgwI=
+		n4xHl9l3kgkUx0nUeKSkixTFblg=
 		</data>
 		<key>Modules/VisualEffectView.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		e30aE3nPcRx2I7VY8H53oWYknVc=
+		9IGZUXWX+ZAWYTHwbVJ4wESSReY=
 		</data>
 		<key>Modules/VisualEffectView.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/VisualEffectView.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CqRZURCwgmtVfPOUolmGVvf18GQ=
+		ZovJDSKQFdnB7y5TppOkLoDooR8=
 		</data>
 		<key>Modules/VisualEffectView.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/VisualEffectView.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		dHg/5OKbFWELF23o/+nK2fLqwr0=
+		+CsoyvhqgrTkxnpA/11vSEhEoq0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,22 +81,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YTCWTw0cPjrjSEt2jUYZrdNRgwI=
+			n4xHl9l3kgkUx0nUeKSkixTFblg=
 			</data>
 			<key>hash2</key>
 			<data>
-			fEZUfH/4UrHEyYaaEDfwde6764Snt9DuhN/04mbtbmk=
+			iDH+IQ1pbLZ6DyJnqZyYYqZuv1dgqQrL9rXOSfNtfXk=
 			</data>
 		</dict>
 		<key>Modules/VisualEffectView.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			e30aE3nPcRx2I7VY8H53oWYknVc=
+			9IGZUXWX+ZAWYTHwbVJ4wESSReY=
 			</data>
 			<key>hash2</key>
 			<data>
-			yANbrPjOGV2N8364E37Kg2Ts+k8iz2/3MSQs0eytqAo=
+			bpDa6Z/TAJRQEFVm72pmD+jDsHN8epj9JClo3ylCq1M=
 			</data>
 		</dict>
 		<key>Modules/VisualEffectView.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -125,11 +125,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CqRZURCwgmtVfPOUolmGVvf18GQ=
+			ZovJDSKQFdnB7y5TppOkLoDooR8=
 			</data>
 			<key>hash2</key>
 			<data>
-			Xg0eu1YaSc6aFpzorgij3+A/pew3Wajd2mgSM6JQV6A=
+			/OMFlfw3OyO05li9UDDtfF5bXMMDn2qzUi0v+k3SzgQ=
 			</data>
 		</dict>
 		<key>Modules/VisualEffectView.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dHg/5OKbFWELF23o/+nK2fLqwr0=
+			+CsoyvhqgrTkxnpA/11vSEhEoq0=
 			</data>
 			<key>hash2</key>
 			<data>
-			yJ/rsJH88SD3w4xaCNUAdO2JWzWeOVBBGJ8skxQOB8Y=
+			orYOMnMd1kgIEkEpOsaVRXiKVO0A6ZKtL+lmZba0q+Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -16,11 +16,6 @@ public final class GeneratedPluginRegistrant {
   private static final String TAG = "GeneratedPluginRegistrant";
   public static void registerWith(@NonNull FlutterEngine flutterEngine) {
     try {
-      flutterEngine.getPlugins().add(new io.endigo.plugins.pdfviewflutter.PDFViewFlutterPlugin());
-    } catch(Exception e) {
-      Log.e(TAG, "Error registering plugin flutter_pdfview, io.endigo.plugins.pdfviewflutter.PDFViewFlutterPlugin", e);
-    }
-    try {
       flutterEngine.getPlugins().add(new net.zonble.flutter_platform_alert.FlutterPlatformAlertPlugin());
     } catch(Exception e) {
       Log.e(TAG, "Error registering plugin flutter_platform_alert, net.zonble.flutter_platform_alert.FlutterPlatformAlertPlugin", e);

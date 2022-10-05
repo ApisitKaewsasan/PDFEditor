@@ -8,9 +8,6 @@ class MockPdfeditorPlatform
     implements PdfeditorPlatform {
 
   @override
-  Future<String?> getPlatformVersion() => Future.value('42');
-
-  @override
   Future<String?> onSave() {
     // TODO: implement onSave
     throw UnimplementedError();
@@ -26,10 +23,7 @@ class MockPdfeditorPlatform
     // TODO: implement dismissUIAlertController
   }
 
-  @override
-  void onCloseDialog() {
-    // TODO: implement onCloseDialog
-  }
+
 
 
 }

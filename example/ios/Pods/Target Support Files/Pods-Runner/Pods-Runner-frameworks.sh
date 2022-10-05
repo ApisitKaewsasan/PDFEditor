@@ -177,21 +177,18 @@ code_sign_if_enabled() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/VisualEffectView/VisualEffectView.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/flutter_pdfview/flutter_pdfview.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/flutter_platform_alert/flutter_platform_alert.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/path_provider_ios/path_provider_ios.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/pdfeditor/pdfeditor.framework"
 fi
 if [[ "$CONFIGURATION" == "Profile" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/VisualEffectView/VisualEffectView.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/flutter_pdfview/flutter_pdfview.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/flutter_platform_alert/flutter_platform_alert.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/path_provider_ios/path_provider_ios.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/pdfeditor/pdfeditor.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/VisualEffectView/VisualEffectView.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/flutter_pdfview/flutter_pdfview.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/flutter_platform_alert/flutter_platform_alert.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/path_provider_ios/path_provider_ios.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/pdfeditor/pdfeditor.framework"

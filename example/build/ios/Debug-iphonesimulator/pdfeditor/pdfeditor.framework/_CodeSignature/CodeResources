@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/pdfeditor.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ux82MAaVMv5xPJbIVnaG4E2J440=
+		oBh/I6lY6k4cRjH4Xiw9IkvLvPs=
 		</data>
 		<key>Modules/pdfeditor.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		68BqN3HkcNXsSDZLzXCpmih1wwI=
+		pfoW3nqOqi5YKvIZF9mBOi3hZ7M=
 		</data>
 		<key>Modules/pdfeditor.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/pdfeditor.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4hjbsdx7kZ/gafele/4TOAyP3VY=
+		rN9pIyWZUP3QHOS0aWfHMIj98F8=
 		</data>
 		<key>Modules/pdfeditor.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/pdfeditor.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		H4oAESEaeZt/ktNGboIAzlyl2GU=
+		0cEdQgwhrNJlm9IjkP9WQdMwAfo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -91,14 +91,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			67wJ5TwP+qlFqhnRo/kQ/UJeB7ELzNf9ri+Rdewe4EM=
+			r4wYD7IUmEYwfbv4NP4BLUZY4Haug13uBID7+7rRi0s=
 			</data>
 		</dict>
 		<key>Modules/pdfeditor.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XpuMzAmAQfVoSdk9/InCQSKVQ574PEMQX+FeJSpDjj4=
+			A+O5srCfroIBGbzZKwN/TUxbYoAnwWII2plSQ/Dztm4=
 			</data>
 		</dict>
 		<key>Modules/pdfeditor.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -119,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zcX46az/xX2NF+YYCScUc8Kt5+iRbwfoqAgxGhFmLk0=
+			MB4WTtauAcQSNg6PdVhPqZIwovOOMlIngjgekM8iISs=
 			</data>
 		</dict>
 		<key>Modules/pdfeditor.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -140,7 +140,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pR5CPLDE71MlwuuexvgIogGWqYfEZIuTP7UYBEt17S0=
+			tGFoy/aOc9XzrK6iBbzuXPWQFveend+bX1/eF5McwR8=
 			</data>
 		</dict>
 	</dict>

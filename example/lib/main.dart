@@ -1,10 +1,7 @@
 import 'dart:developer';
 import 'dart:io';
-import 'package:dio/dio.dart' as diox;
-import 'package:dio/dio.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_platform_alert/flutter_platform_alert.dart';
-import 'dart:async';
 import 'package:get/get.dart';
 import 'package:path_provider/path_provider.dart';
 import 'package:pdfeditor/pdf_editor.dart';
