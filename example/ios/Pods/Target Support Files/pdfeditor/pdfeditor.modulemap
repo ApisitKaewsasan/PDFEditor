@@ -1,0 +1,6 @@
+framework module pdfeditor {
+  umbrella header "pdfeditor-umbrella.h"
+
+  export *
+  module * { export * }
+}
